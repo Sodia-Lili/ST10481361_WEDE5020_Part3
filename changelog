@@ -1,1 +1,13 @@
+Part 2 Changes:
+2025-11-17 
+Changed the search bar and navigation links to the centre. Change the search bar to a bubble search bar. For desktop.
+File: styling.css
+
+2025-11-18
+embedded the Google Map
+Created a map responsive class
+Centred the search bar and nav links
+Switched desktop to grid
+File: contact.html/styling.css
+
 
